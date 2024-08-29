@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toko-sepatu-boss/static/css/main.48a1c0b0.css",
+    "main.js": "/toko-sepatu-boss/static/js/main.5769c352.js",
+    "index.html": "/toko-sepatu-boss/index.html",
+    "main.48a1c0b0.css.map": "/toko-sepatu-boss/static/css/main.48a1c0b0.css.map",
+    "main.5769c352.js.map": "/toko-sepatu-boss/static/js/main.5769c352.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a1c0b0.css",
+    "static/js/main.5769c352.js"
+  ]
+}
